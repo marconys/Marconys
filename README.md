@@ -36,14 +36,14 @@
   
   <div align="center">
 
- ![Snake animation](https://raw.githubusercontent.com/marconys/marconys/output/github-contribution-grid-snake-dark.svg)
+ ![df1wdk7-fa62d5b6-a1b2-4b2b-b407-02e737476148](https://github.com/marconys/Marconys/assets/90052315/e5b0af3d-0793-4ba6-a533-e86c62d355d7)
   ##
 </div>	    
   <img align="left" alt="Marconys-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/daftpunktocat-guy.gif">  
   <img align="right" alt="Marconys-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
   
  <p align="center">
-  <img src="https://raw.githubusercontent.com/marconys/marconys/output/github-contribution-grid-snake.svg" />
+  ![Snake animation](https://raw.githubusercontent.com/marconys/marconys/output/github-contribution-grid-snake-dark.svg)
 </p>
   
 
