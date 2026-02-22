@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Marconys 👋
 
-- 💻 Desenvolvedor FullStack  
-- 🌱 Formado em Técnico em Informática pelo Senac SP  
-- 🚀 Análise e Desenvolvimento de Sistemas na Faculdade Estácio
+- 💻 Desenvolvedor FullStack
+- 🚀 Análise e Desenvolvimento de Sistemas  
+- 🌱 Técnico em Informática 
 
   ---
 
