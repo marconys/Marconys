@@ -42,7 +42,9 @@
   <img align="left" alt="Marconys-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/daftpunktocat-guy.gif">  
   <img align="right" alt="Marconys-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Marconys+See+you+soon+my+friend!)]()
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/marconys/marconys/output/github-contribution-grid-snake.svg" />
+</p>
   
 
  
